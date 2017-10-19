@@ -1,0 +1,3 @@
+httr
+data.table
+jsonlite
