@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/dockerfile-r/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/henchc/dockerfile-r/master?filepath=APIs-in-R.ipynb)
 
 # Specifying an R environment with Binder using a Dockerfile
 
